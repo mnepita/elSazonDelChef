@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://mnepita.github.io/elSazonDelChef/frontend",
+  "homepage": "https://mnepita.github.io/elSazonDelChef/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
