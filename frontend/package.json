@@ -5,6 +5,7 @@
   "type": "module",
   "homepage": "https://mnepita.github.io/elSazonDelChef",
 
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
