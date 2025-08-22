@@ -3,7 +3,6 @@ import { motion, AnimatePresence } from "framer-motion";
 import { FaWhatsapp, FaStar, FaStarHalfAlt, FaRegStar, FaFacebookF, FaInstagram, FaTiktok } from "react-icons/fa";
 import "./App.css";
 
-
 const MotionSection = ({ children, className }) => (
   <motion.section
     className={className}
